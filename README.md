@@ -24,3 +24,7 @@ npm run dev
 ## env
 
 copy `.env.example` to `.env`. `VITE_GITHUB_ACCESS_TOKEN` is optional and only raises the github api rate limit. it ends up in the browser bundle, so use a token with no scopes.
+
+
+## Consistency & Discipline
+This project is maintained regularly to ensure documentation clarity and code quality. Small, daily improvements are prioritized over large, infrequent updates.
